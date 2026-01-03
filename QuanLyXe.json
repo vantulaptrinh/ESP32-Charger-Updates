@@ -1,19 +1,14 @@
 {
   "groups": {
     "XE_VINFAST": {
-      "current_version": "1.0",
-      "firmware_file": "vinfast_v1.0.bin",
+      "current_version": "1.1",
+      "firmware_file": "xe_vinfast_v1.1.bin",
       "folder": "firmware_vinfast"
     },
     "XE_HONDA": {
-      "current_version": "1.0",
-      "firmware_file": "honda_v1.0.bin",
+      "current_version": "0.0",
+      "firmware_file": "honda_v0.0.bin",
       "folder": "firmware_honda"
     }
-  },
-  "mapping": {
-    "24:6F:28:AE:77:45": "XE_VINFAST",
-    "BC:DD:C2:B1:05:80": "XE_HONDA"
   }
 }
-
