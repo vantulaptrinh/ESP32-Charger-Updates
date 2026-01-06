@@ -6,8 +6,8 @@
       "folder": "firmware_vinfast"
     },
     "XE_HONDA": {
-      "current_version": "7.5 ",
-      "firmware_file": "xe_honda_v7.5 .bin",
+      "current_version": "8.0",
+      "firmware_file": "xe_honda_v8.0.bin",
       "folder": "firmware_honda"
     }
   }
