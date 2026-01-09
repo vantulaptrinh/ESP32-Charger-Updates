@@ -7,9 +7,10 @@
       "signature": "3bdb8a7d7f476f0e71dad1c3b3c1227d"
     },
     "XE_HONDA": {
-      "current_version": "11.0",
-      "firmware_file": "xe_honda_v11.0.bin",
-      "folder": "firmware_honda"
+      "current_version": "14.0",
+      "firmware_file": "xe_honda_v14.0.bin",
+      "folder": "firmware_honda",
+      "signature": "3bdb8a7d7f476f0e71dad1c3b3c1227d"
     }
   }
 }
