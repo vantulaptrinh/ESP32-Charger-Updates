@@ -1,8 +1,8 @@
 {
   "groups": {
     "XE_VINFAST": {
-      "current_version": "12.0",
-      "firmware_file": "xe_vinfast_v12.0.bin",
+      "current_version": "13.0",
+      "firmware_file": "xe_vinfast_v13.0.bin",
       "folder": "firmware_vinfast"
     },
     "XE_HONDA": {
