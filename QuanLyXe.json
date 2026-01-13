@@ -1,8 +1,8 @@
 {
   "groups": {
     "XE_VINFAST": {
-      "current_version": "15.1",
-      "firmware_file": "xe_vinfast_v15.1.bin",
+      "current_version": "4.2",
+      "firmware_file": "xe_vinfast_v4.2.bin",
       "folder": "firmware_vinfast",
       "signature": "3bdb8a7d7f476f0e71dad1c3b3c1227d"
     },
