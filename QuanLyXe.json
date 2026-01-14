@@ -11,6 +11,12 @@
       "firmware_file": "xe_honda_v5.6.bin",
       "folder": "firmware_honda",
       "signature": "42ca816b584e831b2ff20cbed4127170"
+    },
+     "XE_YAMAHA": {
+      "current_version": "0.0",
+      "firmware_file": "xe_yamaha_v0.0.bin",
+      "folder": "firmware_yamaha",
+      "signature": "42ca816b584e831b2ff20cbed4127170"
     }
   }
 }
