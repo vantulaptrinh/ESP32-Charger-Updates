@@ -7,8 +7,8 @@
       "signature": "3bdb8a7d7f476f0e71dad1c3b3c1227d"
     },
     "XE_HONDA": {
-      "current_version": "5.4",
-      "firmware_file": "xe_honda_v5.4.bin",
+      "current_version": "5.6",
+      "firmware_file": "xe_honda_v5.6.bin",
       "folder": "firmware_honda",
       "signature": "42ca816b584e831b2ff20cbed4127170"
     }
