@@ -13,8 +13,8 @@
       "signature": "2fd590d091c1520e58b04bc759374ca7"
     },
     "XE_YAMAHA": {
-      "current_version": "6.0",
-      "firmware_file": "xe_yamaha_v6.0.bin",
+      "current_version": "6.6",
+      "firmware_file": "xe_yamaha_v6.6.bin",
       "folder": "firmware_yamaha",
       "signature": "790cc9ced62839f35ebbd93f56864d5c"
     }
