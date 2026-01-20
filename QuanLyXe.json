@@ -7,10 +7,10 @@
       "signature": "f432fa208afde87c507341133182de5e"
     },
     "XE_HONDA": {
-      "current_version": "6.6",
-      "firmware_file": "xe_honda_v6.6.bin",
+      "current_version": "6.8",
+      "firmware_file": "xe_honda_v6.8.bin",
       "folder": "firmware_honda",
-      "signature": "f432fa208afde87c507341133182de5e"
+      "signature": "2fd590d091c1520e58b04bc759374ca7"
     },
     "XE_YAMAHA": {
       "current_version": "5.8",
